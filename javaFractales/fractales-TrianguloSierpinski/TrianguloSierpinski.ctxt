@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TrianguloSierpinski
+comment1.params=scale
+comment1.target=TrianguloSierpinski(int)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=g2d\ top\ left\ right\ scale
+comment3.target=void\ drawSierpinskiTriangle(java.awt.Graphics2D,\ java.awt.geom.Point2D.Double,\ java.awt.geom.Point2D.Double,\ java.awt.geom.Point2D.Double,\ int)
+comment4.params=p1\ p2
+comment4.target=java.awt.geom.Point2D.Double\ midpoint(java.awt.geom.Point2D.Double,\ java.awt.geom.Point2D.Double)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
